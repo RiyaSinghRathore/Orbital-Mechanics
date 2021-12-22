@@ -1,5 +1,5 @@
 #### Orbital-Mechanics
-##Lecture Schedule:
+**Lecture Schedule:**
 • Oct. 11 (Mon.) Introduction of Trajectory Design in Space Missions <br />
 • Oct.18 (Mon.) Dynamics of Point Masses <br />
 • Oct. 27 (Wed.) Central Force Motion <br />
