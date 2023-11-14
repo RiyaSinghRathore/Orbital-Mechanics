@@ -10,4 +10,3 @@
 • LECTURE 7: Nov. 24 (Wed.) Stability of Equilibrium, Manifold Dynamics <br />
 • LECTURE 8: Dec. 01 (Wed.) Sphere of Influence, Swing-by <br />
 
-For more resources on the lecture series: https://drive.google.com/drive/folders/1CmGHejLKWWS0BPshsq_xMjUy2AY2F2KF
